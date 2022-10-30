@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://cdn.dribbble.com/users/400493/screenshots/2703191/media/296737af7ac7a37f25d6cc39c99f0d51.gif" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">I'm Spec, a student and freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
