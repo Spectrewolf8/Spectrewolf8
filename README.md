@@ -3,6 +3,9 @@
 
 <img src="https://user-images.githubusercontent.com/69973760/198879515-b51e7923-e64d-46ee-967b-943e2f532b22.gif" align="right" width="400" height="350"  />  
 
+<br/>
+<br/>  
+
 - 🔭 I’m currently working on [SpecShare](https://github.com/Spectrewolf8/SpecShare-FileSharingDesktopApp-in-CSharp)
 
 - 🌱 I’m currently learning **C#(Socket Programming) and Unity3D**
@@ -14,6 +17,7 @@
 - 📫 You can reach me on my discord acc @ **Spec.psx#5479**
 
 - ⚡ Fun fact **I don't know what I'm doing**
+<br/>  
 <br/>  
 <br/>  
 <br/>  
