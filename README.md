@@ -27,7 +27,7 @@
 
 
 <h3 align="center">Some cool stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=spectrewolf8&show_icons=true&theme=dark&locale=en" alt="spectrewolf8" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spectrewolf8&theme=dark" alt="spectrewolf8" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=spectrewolf8&show_icons=true&theme=dark&locale=en" alt="spectrewolf8" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spectrewolf8&theme=dark" alt="spectrewolf8" /></p>
 <h3 align="center">What I'm listening to:</h3>
 <br/>  
 
