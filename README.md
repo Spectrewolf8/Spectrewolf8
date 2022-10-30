@@ -31,6 +31,6 @@
 <h3 align="center">What I'm listening to:</h3>
 <br/>  
 
-![](https://readme-now-playing.vercel.app/now-playing/q?uid=31odgpnwokjkkgy4qaxx3kpgmobisize=large&theme=light)
+![](https://readme-now-playing.vercel.app/now-playing/q?uid=31odgpnwokjkkgy4qaxx3kpgmobi&size=large&theme=light)
 <br/>  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=spectrewolf8&label=Profile%20views&color=0e75b6&style=flat" alt="spectrewolf8" /> </p>
