@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋,I'm Spec, a student and freelance developer 👨‍💻 working remotely since 2021 🚀</h1>
 
 
+<img src="https://user-images.githubusercontent.com/69973760/198879515-b51e7923-e64d-46ee-967b-943e2f532b22.gif" align="right" width="400" height="400"  />  
+
 - 🔭 I’m currently working on [SpecShare](https://github.com/Spectrewolf8/SpecShare-FileSharingDesktopApp-in-CSharp)
 
 - 🌱 I’m currently learning **C#(Socket Programming) and Unity3D**
@@ -31,6 +33,6 @@
 <h3 align="center">What I'm listening to:</h3>
 <br/>  
 
-![](https://readme-now-playing.vercel.app/now-playing/q?uid=31odgpnwokjkkgy4qaxx3kpgmobi&size=large&theme=light)
- 
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=spectrewolf8&label=Profile%20views&color=0e75b6&style=flat" alt="spectrewolf8" /> </p>
