@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋,I'm Spec, a student and freelance developer 👨‍💻 working remotely since 2021 🚀</h1>
 
 
-<img src="https://user-images.githubusercontent.com/69973760/198879515-b51e7923-e64d-46ee-967b-943e2f532b22.gif" align="right" width="400" height="350"  />  
+
+<img src="https://user-images.githubusercontent.com/69973760/198896968-929030d6-d592-4828-87cc-06195f087f2c.gif" align="right" width="470" height="430"  />  
 
 <br/>
 <br/>  
