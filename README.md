@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,I'm Spec, a student and freelance developer 👨‍💻 working remotely since 2021 🚀</h1>
 
 
-<img src="https://user-images.githubusercontent.com/69973760/198879515-b51e7923-e64d-46ee-967b-943e2f532b22.gif" align="right" width="400" height="400"  />  
+<img src="https://user-images.githubusercontent.com/69973760/198879515-b51e7923-e64d-46ee-967b-943e2f532b22.gif" align="right" width="400" height="350"  />  
 
 - 🔭 I’m currently working on [SpecShare](https://github.com/Spectrewolf8/SpecShare-FileSharingDesktopApp-in-CSharp)
 
