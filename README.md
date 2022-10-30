@@ -24,12 +24,12 @@
 
 
 
-
+<h3 align="center">Some cool stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=spectrewolf8&show_icons=true&locale=en" alt="spectrewolf8" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spectrewolf8&" alt="spectrewolf8" /></p>
-
+<h3 align="center">What I'm listening to:</h3>
 <br/>  
 
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31odgpnwokjkkgy4qaxx3kpgmobi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31odgpnwokjkkgy4qaxx3kpgmobi&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31odgpnwokjkkgy4qaxx3kpgmobi&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" /></div>  
 
 <br/>  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=spectrewolf8&label=Profile%20views&color=0e75b6&style=flat" alt="spectrewolf8" /> </p>
