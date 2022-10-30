@@ -26,7 +26,7 @@
 <h3 align="center">-Connect with me-</h3>
 <p align="center">
 <a href="https://twitter.com/spectrewolf4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spectrewolf4" height="40" width="40" /></a>
-<a href="https://discord.gg/Spec.psx#5479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Spec.psx#5479" height="40" width="40" /></a>
+<a href="https://discord.gg/Spec.psx#5479" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg" alt="Spec.psx#5479" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">-Languages and Tool-</h3>
