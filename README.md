@@ -31,7 +31,6 @@
 <h3 align="center">What I'm listening to:</h3>
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31odgpnwokjkkgy4qaxx3kpgmobi&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" /></div>  
-
+![](https://readme-now-playing.vercel.app/now-playing/q?uid=31odgpnwokjkkgy4qaxx3kpgmobisize=large&theme=light)
 <br/>  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=spectrewolf8&label=Profile%20views&color=0e75b6&style=flat" alt="spectrewolf8" /> </p>
