@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **C#(Socket Programming)**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Spectrewolf8)
+- 👨‍💻 All of my projects are available [Here](https://github.com/Spectrewolf8?tab=repositories)
 
 - 📫 You can reach me on my discord acc @ **Spec.psx#5479**
 
