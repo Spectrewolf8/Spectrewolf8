@@ -85,7 +85,7 @@
 <br/>  
 </p>
 
-<p><img width="410" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spectrewolf8&layout=compact&theme=dark" alt="spectrewolf8"/></p>
+<p align="center"><img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spectrewolf8&layout=compact&theme=dark" alt="spectrewolf8"/></p>
 <br/>  
-
+<br/>  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=spectrewolf8&label=Profile%20views&color=0e75b6&style=flat" alt="spectrewolf8" /> </p>
