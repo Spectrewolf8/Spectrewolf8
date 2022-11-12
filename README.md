@@ -80,7 +80,7 @@
  <a href="www.jetbrains.com" target="_blank" rel="noreferrer"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg?_gl=1*rgy94s*_ga*MzM4MDgxMjk5LjE2NTI5MzEwMTI.*_ga_9J976DJZ68*MTY2NzE1MzIwMC4xOS4xLjE2NjcxNTM0MDMuNjAuMC4w" alt="JetBrains Services" width="45" height="45"/>
 
 
-<h3 align="center">-Some cool stats-</h3>
+<h3 align="center">-stats-</h3>
 <p><img width="410" align="center" src="https://github-readme-stats.vercel.app/api?username=spectrewolf8&show_icons=true&theme=dark&locale=en" alt="spectrewolf8" /> <img width="410" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spectrewolf8&theme=dark" alt="spectrewolf8" />
 <br/>  
 </p>
