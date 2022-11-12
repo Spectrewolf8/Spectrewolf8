@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋,I'm Spec, a student and freelance developer 👨‍💻 working remotely since 2021 🚀</h1>
 
-
-
-<img src="https://user-images.githubusercontent.com/69973760/198896968-929030d6-d592-4828-87cc-06195f087f2c.gif" align="right" width="430" height="370"  />  
+<img src="https://user-images.githubusercontent.com/69973760/198896968-929030d6-d592-4828-87cc-06195f087f2c.gif" align="right" width="430" height="370"  />
 
 <br/>
-<br/>  
+<br/>
 
 - 🔭 I’m currently working on [SpecShare](https://github.com/Spectrewolf8/SpecShare-FileSharingDesktopApp-in-CSharp)
 
@@ -18,10 +16,9 @@
 - 📫 You can reach me on my discord acc @ **Spec.psx#5479**
 
 - ⚡ Fun fact **I don't know what I'm doing**
-<br/>  
-<br/>  
-<br/>  
-
+  <br/>  
+  <br/>  
+  <br/>
 
 <h3 align="center">-Connect with me-</h3>
 <p align="center">
@@ -71,14 +68,10 @@
   </a>
 </p>
 
-
-
-
 <h3 align="center">-IDEs-</h3>
 <p align="center"> <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" alt="Visual Studio" width="40" height="40"/>
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code" width="40" height="40"/>
  <a href="www.jetbrains.com" target="_blank" rel="noreferrer"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg?_gl=1*rgy94s*_ga*MzM4MDgxMjk5LjE2NTI5MzEwMTI.*_ga_9J976DJZ68*MTY2NzE1MzIwMC4xOS4xLjE2NjcxNTM0MDMuNjAuMC4w" alt="JetBrains Services" width="45" height="45"/>
-
 
 <h3 align="center">-stats-</h3>
 <p><img width="410" align="center" src="https://github-readme-stats.vercel.app/api?username=spectrewolf8&show_icons=true&theme=dark&locale=en" alt="spectrewolf8" /> <img width="410" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spectrewolf8&theme=dark" alt="spectrewolf8" />
