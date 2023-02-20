@@ -5,9 +5,9 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [SpecShare](https://github.com/Spectrewolf8/SpecShare-FileSharingDesktopApp-in-CSharp)
+- 🔭 I’m currently working on [Ascii Video Player]
 
-- 🌱 I’m currently learning **C#(Socket Programming) and Unity3D**
+- 🌱 I’m currently learning **JavaScript**
 
 - 🤝 I’m looking for help with **C#(Socket Programming)**
 
