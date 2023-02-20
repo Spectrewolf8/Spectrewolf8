@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **Ascii Video Player*
+- 🔭 I’m currently working on **Ascii Video Player**
 
 - 🌱 I’m currently learning **JavaScript**
 
