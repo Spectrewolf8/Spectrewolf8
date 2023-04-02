@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋,I'm Spec, a college student and software developer 👨‍💻</h1>
 
 <img src="https://user-images.githubusercontent.com/69973760/198896968-929030d6-d592-4828-87cc-06195f087f2c.gif" align="right" width="430" height="370"  />
@@ -9,11 +7,11 @@
 
 - 🔭 I’m currently working on **Ascii Video Player**
 
-- 🌱 I’m currently learning **JavaScript** 
+- 🌱 I’m currently learning **JavaScript**
 
 - 🤝 I’m looking for teammates/partners to work on something cool with
 
-- 📌️ Current goal is to prepare for and pass **GSOC**, and   maybe to get a good internship before that.
+- 📌️ Current goal is to prepare for and pass **GSOC**, and maybe to get a good internship before that.
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Spectrewolf8?tab=repositories)
 
@@ -21,9 +19,7 @@
 
 - ⚡ Fun fact **I don't know what I'm doing, I'm just exploring crazy stuff.**
   <br/>  
-  <br/>  
   <br/>
-
 
 <h3 align="center">-My Tech Stack-</h3>
 <p align="center">
@@ -60,7 +56,6 @@
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code" width="40" height="40"/>
  <a href="www.jetbrains.com" target="_blank" rel="noreferrer"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg?_gl=1*rgy94s*_ga*MzM4MDgxMjk5LjE2NTI5MzEwMTI.*_ga_9J976DJZ68*MTY2NzE1MzIwMC4xOS4xLjE2NjcxNTM0MDMuNjAuMC4w" alt="JetBrains Services" width="45" height="45"/>
 
- 
 <h3 align="center">-Hit me up here-</h3>
 <p align="center">
 <a href="https://twitter.com/spectrewolf4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spectrewolf4" height="40" width="40" /></a>
