@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for teammates/partners to work on something cool with
 
-- 📌️ Current goal is to prepare for and pass **GSOC** and maybe to get a good internship before that.
+- 📌️ Current goal is to prepare for and pass **GSOC**, and   maybe to get a good internship before that.
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Spectrewolf8?tab=repositories)
 
