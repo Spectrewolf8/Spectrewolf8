@@ -5,19 +5,19 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **Ascii Video Player**
+- 🔭 I’m currently working on **Ascii Video Player**.
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript**.
 
 - 🤝 I’m looking for teammates/partners to work on something cool with
 
 - 📌️ Current goal is to go for **GSOC**, and to find a good internship before that.
 
-- 👨‍💻 All of my projects are available [Here](https://github.com/Spectrewolf8?tab=repositories)
+- 👨‍💻 All of my projects are available [Here](https://github.com/Spectrewolf8?tab=repositories).
 
-- 📫 You can reach me on my discord acc @ **Spec.psx#5479**
+- 📫 You can reach me on my discord acc @ **Spec.psx#5479**.
 
-- ⚡ Fun fact **I don't know what I'm doing, I'm just exploring crazy stuff.**
+- ⚡ Fun fact **I don't know what I'm doing, I'm just exploring crazy stuff**.
   <br/>  
   <br/>
 
