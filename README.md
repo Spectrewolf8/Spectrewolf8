@@ -56,9 +56,9 @@
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code" width="40" height="40"/>
  <a href="www.jetbrains.com" target="_blank" rel="noreferrer"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg?_gl=1*rgy94s*_ga*MzM4MDgxMjk5LjE2NTI5MzEwMTI.*_ga_9J976DJZ68*MTY2NzE1MzIwMC4xOS4xLjE2NjcxNTM0MDMuNjAuMC4w" alt="JetBrains Services" width="45" height="45"/>
 
-<h3 align="center">-Hit me up here-</h3>
+<h3 align="center">-Hit Me Up Here-</h3>
 <p align="center">
-<a href="https://twitter.com/spectrewolf4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spectrewolf4" height="40" width="40" /></a>
+<a href="https://twitter.com/SpecsineMaxine_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spectrewolf4" height="40" width="40" /></a>
 <a href="https://discord.gg/Spec.psx#5479" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg" alt="Spec.psx#5479" height="40" width="40" /></a>
 </p>  
    
