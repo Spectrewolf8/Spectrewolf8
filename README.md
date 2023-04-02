@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,I'm Spec, a student and freelance developer 👨‍💻</h1>
+<h1 align="center">Hi 👋,I'm Spec, a college student and software developer 👨‍💻</h1>
 
 <img src="https://user-images.githubusercontent.com/69973760/198896968-929030d6-d592-4828-87cc-06195f087f2c.gif" align="right" width="430" height="370"  />
 
@@ -7,31 +7,25 @@
 
 - 🔭 I’m currently working on **Ascii Video Player**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** 
 
-- 🤝 I’m looking for help with **C#(Socket Programming)**
+- 🤝 I’m looking for teammates/partners to work on something cool with
+
+- 📌️ Current goal is to prepare for and pass **GSOC** and maybe to get a good internship before that.
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Spectrewolf8?tab=repositories)
 
 - 📫 You can reach me on my discord acc @ **Spec.psx#5479**
 
-- ⚡ Fun fact **I don't know what I'm doing**
+- ⚡ Fun fact **I don't know what I'm doing, I'm just exploring crazy stuff.**
   <br/>  
   <br/>  
   <br/>
 
-<h3 align="center">-Connect with me-</h3>
-<p align="center">
-<a href="https://twitter.com/spectrewolf4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spectrewolf4" height="40" width="40" /></a>
-<a href="https://discord.gg/Spec.psx#5479" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg" alt="Spec.psx#5479" height="40" width="40" /></a>
-</p>
 
-<h3 align="center">-Languages and Tool-</h3>
+<h3 align="center">-My Tech Stack-</h3>
 <p align="center">
-  
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
+
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
   </a>
@@ -57,22 +51,20 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
   </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/69973760/198898147-5444bc52-4fa8-4e97-888a-d12bf1d97548.svg"alt="unreal" width="40" height="40" />
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />
-  </a>
-     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-  </a>
-  </a>
 </p>
 
-<h3 align="center">-IDEs-</h3>
+<h3 align="center">-Code Editors/IDEs-</h3>
 <p align="center"> <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" alt="Visual Studio" width="40" height="40"/>
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code" width="40" height="40"/>
  <a href="www.jetbrains.com" target="_blank" rel="noreferrer"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg?_gl=1*rgy94s*_ga*MzM4MDgxMjk5LjE2NTI5MzEwMTI.*_ga_9J976DJZ68*MTY2NzE1MzIwMC4xOS4xLjE2NjcxNTM0MDMuNjAuMC4w" alt="JetBrains Services" width="45" height="45"/>
 
+ 
+<h3 align="center">-Hit me up here-</h3>
+<p align="center">
+<a href="https://twitter.com/spectrewolf4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spectrewolf4" height="40" width="40" /></a>
+<a href="https://discord.gg/Spec.psx#5479" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg" alt="Spec.psx#5479" height="40" width="40" /></a>
+</p>  
+   
 <h3 align="center">-stats-</h3>
 <p><img width="410" align="center" src="https://github-readme-stats.vercel.app/api?username=spectrewolf8&show_icons=true&theme=dark&locale=en" alt="spectrewolf8" /> <img width="410" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spectrewolf8&theme=dark" alt="spectrewolf8" />
 <br/>  
