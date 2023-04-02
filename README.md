@@ -68,13 +68,11 @@
 </p>  
    
 <h3 align="center">-stats-</h3>
-<div align="center">
-    <img style="vertical-align: middle;" width="410" height="160" src="https://github-readme-stats.vercel.app/api?username=spectrewolf8&show_icons=true&theme=dark&locale=en" alt="spectrewolf8" />
-    <img style="vertical-align: middle;" height="250" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=spectrewolf8&theme=dark" alt="spectrewolf8" />
+<div align = "center" style="display:flex; justify-content:center;">
+  <img style="margin:0; padding:0;" width="410" height="160" src="https://github-readme-stats.vercel.app/api?username=spectrewolf8&show_icons=true&theme=dark&locale=en" alt="spectrewolf8" />
+  <img style="margin:0; padding:0;" height="160" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=spectrewolf8&theme=dark" alt="spectrewolf8" />
 </div>
 
-
-<p align="center"><img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spectrewolf8&layout=compact&theme=dark" alt="spectrewolf8"/></p>
-<br/>  
+<p align="center"><img height = "170" width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spectrewolf8&layout=compact&theme=dark" alt="spectrewolf8"/></p>
 <br/>  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=spectrewolf8&label=Profile%20views&color=0e75b6&style=flat" alt="spectrewolf8" /> </p>
