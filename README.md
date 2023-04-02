@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋,I'm Spec, a college student and software developer 👨‍💻</h1>
 
 <img src="https://user-images.githubusercontent.com/69973760/198896968-929030d6-d592-4828-87cc-06195f087f2c.gif" align="right" width="430" height="370"  />
@@ -66,9 +68,11 @@
 </p>  
    
 <h3 align="center">-stats-</h3>
-<p><img width="410" align="center" src="https://github-readme-stats.vercel.app/api?username=spectrewolf8&show_icons=true&theme=dark&locale=en" alt="spectrewolf8" /> <img width="410" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spectrewolf8&theme=dark" alt="spectrewolf8" />
-<br/>  
-</p>
+<div align="center">
+    <img style="vertical-align: middle;" width="410" height="160" src="https://github-readme-stats.vercel.app/api?username=spectrewolf8&show_icons=true&theme=dark&locale=en" alt="spectrewolf8" />
+    <img style="vertical-align: middle;" height="250" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=spectrewolf8&theme=dark" alt="spectrewolf8" />
+</div>
+
 
 <p align="center"><img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spectrewolf8&layout=compact&theme=dark" alt="spectrewolf8"/></p>
 <br/>  
