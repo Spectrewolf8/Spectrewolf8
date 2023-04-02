@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**.
 
-- 🤝 I’m looking for teammates/partners to work on something cool with
+- 🤝 I’m looking for teammates/partners to work on something cool with.
 
 - 📌️ Current goal is to go for **GSOC**, and to find a good internship before that.
 
