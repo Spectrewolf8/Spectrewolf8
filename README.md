@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for teammates/partners to work on something cool with.
 
-- 📌️ Current goal is to go for **GSOC**, and to find a good internship before that.
+- 📌️ Current goal is to learn Django and Unity3D.
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Spectrewolf8?tab=repositories).
 
