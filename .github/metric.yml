@@ -1,0 +1,48 @@
+# This is a GitHub Actions workflow for the Metrics tool
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics
+
+# Triggers for the workflow
+on:
+  # Schedule updates (each hour)
+  schedule:
+    - cron: "0 * * * *"
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push:
+    branches:
+      - "master"
+      - "main"
+
+# Jobs to be run in the workflow
+jobs:
+  github-metrics:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Name of the step
+      - name: Indepth analysis
+        # Uses the lowlighter/metrics action to generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # The output file to generate
+          filename: metrics.plugin.languages.indepth.svg
+          # The GitHub token used by the action to interact with the GitHub API
+          token: ${{ secrets.METRICS_TOKEN }}
+          # The base directory for the metrics
+          base: ""
+          # Enable the languages plugin
+          plugin_languages: yes
+          # List of languages to ignore
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          # Enable indepth analysis of languages
+          plugin_languages_indepth: yes
+          # Details to include in the analysis
+          plugin_languages_details: lines, bytes-size
+          # Limit the number of languages to analyze
+          plugin_languages_limit: 4
+          # Timeout for the languages analysis
+          plugin_languages_analysis_timeout: 15
