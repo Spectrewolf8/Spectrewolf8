@@ -4,9 +4,8 @@ name: Metrics
 
 # Triggers for the workflow
 on:
-  # Schedule updates (each hour)
-  schedule:
-    - cron: "0 * * * *"
+  # Schedule daily updates
+  schedule: [{ cron: "0 0 * * *" }]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push:
