@@ -26,23 +26,16 @@ jobs:
         # Uses the lowlighter/metrics action to generate metrics
         uses: lowlighter/metrics@latest
         with:
-          # The output file to generate
           filename: metrics.plugin.languages.indepth.svg
-          # The GitHub token used by the action to interact with the GitHub API
           token: ${{ secrets.METRICS_TOKEN }}
-          # The base directory for the metrics
           base: ""
-          # Enable the languages plugin
+
+          #options
           plugin_languages: yes
-          # List of languages to ignore
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
-          # Enable indepth analysis of languages
           plugin_languages_indepth: yes
-          # Details to include in the analysis
           plugin_languages_details: lines, bytes-size
-          # Limit the number of languages to analyze
           plugin_languages_limit: 4
-          # Timeout for the languages analysis
           plugin_languages_analysis_timeout: 15
