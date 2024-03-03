@@ -23,11 +23,11 @@ jobs:
       # Name of the step
       - name: Indepth analysis
         # Uses the lowlighter/metrics action to generate metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: ./assets/metrics.plugin.languages.indepth.svg
           base: ""
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           #options
           plugin_languages: yes
           plugin_languages_ignored: >-
