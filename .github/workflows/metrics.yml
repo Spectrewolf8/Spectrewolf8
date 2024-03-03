@@ -25,7 +25,7 @@ jobs:
         # Uses the lowlighter/metrics action to generate metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.languages.indepth.svg
+          filename: ./assets/metrics.plugin.languages.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
 
