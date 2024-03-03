@@ -25,9 +25,11 @@ jobs:
         # Uses the lowlighter/metrics action to generate metrics
         uses: lowlighter/metrics@master
         with:
-          # filename: ./assets/metrics.plugin.languages.indepth.svg
-          # base: ""
-          token: ${{ secrets.METRICS_TOKEN }}
+          filename: ./assets/metrics.plugin.languages.indepth.svg
+          base: ""
+        env:
+          # The GitHub token used by the action to interact with the GitHub API
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
           #options
           plugin_languages: yes
