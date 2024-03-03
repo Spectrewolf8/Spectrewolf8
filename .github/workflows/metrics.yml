@@ -25,9 +25,10 @@ jobs:
         # Uses the lowlighter/metrics action to generate metrics
         uses: lowlighter/metrics@master
         with:
-          filename: ./assets/metrics.plugin.languages.indepth.svg
-          base: ""
+          # filename: ./assets/metrics.plugin.languages.indepth.svg
+          # base: ""
           token: ${{ secrets.METRICS_TOKEN }}
+
           #options
           plugin_languages: yes
           plugin_languages_ignored: >-
