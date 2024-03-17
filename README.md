@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Spec, a college student and software developer 👨‍💻</h1>
-![Metrics](./github-metrics.svg)
+![Metrics](assets//github-metrics.svg)
 <img src="https://user-images.githubusercontent.com/69973760/198896968-929030d6-d592-4828-87cc-06195f087f2c.gif" align="right" width="430" height="370"  />
 
 <br/>
