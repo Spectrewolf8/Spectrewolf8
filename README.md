@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Spec, a college student and software developer 👨‍💻</h1>
+<h3>Hi there 👋</h3>
+
 <p align="center">
   <img src="metrics.plugin.languages.indepth.svg" alt="Metrics">
 </p>
@@ -6,9 +7,7 @@
 
 <br/>
 <br/>
-
-- 🔭 I’m currently working on **Ascii Video Player**.
-- 🌱 I’m currently learning **JavaScript**.
+<h3>- 🌱 I'm Spec</h3>
 - 🤝 I’m looking for teammates/partners to work on something cool with.
 - 📌️ Current goal is to learn Django and Unity3D.
 - 👨‍💻 All of my projects are available [Here](https://github.com/Spectrewolf8?tab=repositories).
