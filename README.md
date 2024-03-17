@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Spec, a college student and software developer 👨‍💻</h1>
 <p align="center">
-  <img src="assets/github-metrics.svg" alt="Metrics">
+  <img src="metrics.plugin.languages.indepth.svg" alt="Metrics">
 </p>
 <img src="https://user-images.githubusercontent.com/69973760/198896968-929030d6-d592-4828-87cc-06195f087f2c.gif" align="right" width="430" height="370" />
 
