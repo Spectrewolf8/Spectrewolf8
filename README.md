@@ -1,11 +1,10 @@
 ## Hi there 👋
 <a>
   <img align="right" width="450px" src="./github-metrics.svg" />
-</a
+</a>
 
 <p align="center">
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spectrewolf8&layout=compact&theme=dark"></img>
-  <img src="https://wakatime.com/badge/user/018e35f0-a91c-4e32-a3fb-a15267c1bb40.svg"></img>
 </p>
 
 ### I'm **Spec**
