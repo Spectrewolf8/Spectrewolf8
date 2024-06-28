@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning: React, MERN stack, ML and more!
 
-- 👯 I’m collaborating on: [mixmoe](https://github.com/mixmoe) and [NoneBot](https://github.com/nonebot)
+- 👯 I’m collaborating on: [PAQI-CUI_AirQualityPortal](https://github.com/Spectrewolf8/PAQI-CUI_AirQualityPortal) and [Driftonite](https://github.com/Spectrewolf8/Driftonite)
 
-- 📫 How to reach me: `base64.decode(YWRtaW5Ab2Jmcy5kZXY)`
+- 📫 How to reach me: `base64.decode(RGlzY29yZCB1c2VybmFtZTogc3BlYy5wc3g=)`
 
 
 ## 🚉 **Developing Tools&Platforms**
