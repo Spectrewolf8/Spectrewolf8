@@ -3,7 +3,7 @@
   <img align="right" width="450px" src="./github-metrics.svg" />
 </a>
 
-<p align="center">
+<p align="left">
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spectrewolf8&layout=compact&theme=dark"></img>
 </p>
 
