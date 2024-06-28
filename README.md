@@ -17,7 +17,7 @@
 - 👯 I’m collaborating on: [PAQI-CUI_AirQualityPortal](https://github.com/Spectrewolf8/PAQI-CUI_AirQualityPortal) and [Driftonite](https://github.com/Spectrewolf8/Driftonite)
 
 - 📫 How to reach me:
-  `base64.decode(RGlzY29yZCB1c2VybmFtZTogc3BlYy5wc3g=)`
+  ```base64.decode( RGlzY29yZCB1c2VybmFtZTogc3BlYy5wc3g= )```
 
 
 ### 🚉 **Developing Tools&Platforms**
