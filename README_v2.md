@@ -1,19 +1,14 @@
-<h1>(Readme Under construction)<h1>
 <h3>Hi there 👋</h3>
-
-<p align="center">
-  <img src="metrics.plugin.languages.indepth.svg" alt="Metrics">
-</p>
 <img src="https://user-images.githubusercontent.com/69973760/198896968-929030d6-d592-4828-87cc-06195f087f2c.gif" align="right" width="430" height="370" />
 
 <br/>
 <br/>
 <h3>- 🌱 I'm Spec</h3>
-- 🤝 I’m looking for teammates/partners to work on something cool with.
-- 📌️ Current goal is to learn Django and Unity3D.
-- 👨‍💻 All of my projects are available [Here](https://github.com/Spectrewolf8?tab=repositories).
-- 📫 You can reach me on my Discord account: **Spec.psx#5479**.
-- ⚡ Fun fact: **I don't know what I'm doing, I'm just exploring crazy stuff**.
+- 🤝 I’m looking for teammates/partners to work on something cool with.<br/>
+- 📌️ Current goal is to learn Django and Unity3D.<br/>
+- 👨‍💻 All of my projects are available [Here](https://github.com/Spectrewolf8?tab=repositories).<br/>
+- 📫 You can reach me on my Discord account: **Spec.psx#5479**.<br/>
+- ⚡ Fun fact: **I don't know what I'm doing, I'm just exploring crazy stuff**.<br/>
 <br/>  
 <br/>
 
