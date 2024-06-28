@@ -9,6 +9,8 @@
 
 ### I'm **Spec**
 
+- 🗿  I’m a student software engineer and developer.
+
 - 🔭 I’m currently working on AQI Portal for CUI ISB.
 
 - 🌱 I’m currently learning: React, MERN stack, ML and more!
