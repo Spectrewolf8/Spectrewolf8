@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: mnixry
+          user: spectrewolf8
           template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
