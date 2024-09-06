@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on AQI Portal for CUI ISB.
 
-- 🌱 I’m currently learning: React, MERN stack, ML and more!
+- 🌱 I’m currently learning: ML and more!
 
 - 👯 I’m collaborating on: [PAQI-CUI_AirQualityPortal](https://github.com/Spectrewolf8/PAQI-CUI_AirQualityPortal) and [Driftonite](https://github.com/Spectrewolf8/Driftonite)
 
