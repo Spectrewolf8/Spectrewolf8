@@ -23,10 +23,11 @@
 
 ### 🚉 **Developing Tools&Platforms**
 
-![](https://img.shields.io/badge/Arch_Linux-1793D1?style=plastic-square&logo=arch-linux&logoColor=white)
-![](https://img.shields.io/badge/Windows-000000?style=plastic-square&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic-square&logo=visual%20studio%20code&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic-square&logo=PyCharm&logoColor=white)
+![](https://img.shields.io/badge/Arch_Linux-1793D1?style=plastic-square&logo=arch-linux&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
+
 
 
 ### 🌟 **My Skills**  
