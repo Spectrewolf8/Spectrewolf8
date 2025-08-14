@@ -9,13 +9,13 @@
 
 ### I'm **Spec**
 
-- 🗿  I’m a student software engineer and developer.
+- 🗿  I’m a software engineer (Backend/Python) interested in DataSceince, ML/AI.
 
-- 🔭 I’m currently working on AQI Portal for CUI ISB.
+- 🔭 I’m currently working RL Autodriver AI in Unity3D World.
 
-- 🌱 I’m currently learning: ML and more!
+- 🌱 I’m currently learning: LLMs, Agents and RL.
 
-- 👯 I’m collaborating on: [PAQI-CUI_AirQualityPortal](https://github.com/Spectrewolf8/PAQI-CUI_AirQualityPortal) and [Driftonite](https://github.com/Spectrewolf8/Driftonite)
+- 👯 I’m collaborating on: No active collaborative project yet.
 
 - 📫 How to reach me:
   ```base64.decode( RGlzY29yZCB1c2VybmFtZTogc3BlYy5wc3g= )```
