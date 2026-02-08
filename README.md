@@ -1,11 +1,11 @@
 ## Hi there 👋
  
 <p align="center">
-  <img width="700" src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=spectrewolf8&year=2026&theme=dark&stats=true&credit=true"></img>
+  <img width="700" src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=spectrewolf8&theme=dark&stats=true&credit=true"></img>
 </p>
 
 <p align="center">
- <sup>(2026 graph)</sup>
+ <sup>(365 days graph)</sup>
 </p>
 
 
