@@ -13,7 +13,7 @@
 
 - 🗿  I’m a software engineer (Backend/Python) interested in DataSceince, ML/AI.
 
-- 🔭 I’m currently working RL Autodriver AI in Unity3D World.
+- 🔭 I’m currently working on RoverTools.
 
 - 🌱 I’m currently learning: LLMs, Agents and RL.
 
