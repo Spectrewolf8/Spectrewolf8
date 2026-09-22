@@ -11,13 +11,10 @@
 
 ### I'm **Spec**
 
-- 🗿  I’m a software engineer (Backend/Python) interested in DataSceince, ML/AI.
+- 🗿  I’m a software engineer (Backend/Python) interested in Solutions Architecture.
 
-- 🔭 I’m currently working on RoverTools.
+- 🔭 I’m currently working on RoverTools' [Orange copy Paste App](https://github.com/NotRover/RoverTools-Orange-Copy-Paste-App).
 
-- 🌱 I’m currently learning: LLMs, Agents and RL.
+- 👯 I’m open to collaborating on [NotRover's](https://github.com/NotRover/RoverTools-Orange-Copy-Paste-App) RoverTools series Apps and Projects.
 
-- 👯 I’m collaborating on: No active collaborative project yet.
-
-- 📫 How to reach me:
-  ```base64.decode( RGlzY29yZCB1c2VybmFtZTogc3BlYy5wc3g= )```
+- 📫 You can reach out to me via Discord at ``spec.psx`` or email me at ``salmantariq8385@protonmail.com``
