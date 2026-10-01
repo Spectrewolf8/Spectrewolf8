@@ -1,7 +1,7 @@
 ## Hi there 👋
  
 <p align="center">
-  <img width="700" src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=spectrewolf8&theme=dark&stats=true&credit=true"></img>
+  <img width="700" src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=spectrewolf8&theme=dark&stats=true&credit=true&format=svg"></img>
 </p>
 
 <p align="center">
